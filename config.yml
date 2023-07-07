@@ -3,6 +3,12 @@ languageCode: 'en-us'
 title: Ari Zerner's Blog
 theme: PaperMod
 
+menu:
+  main:
+    - name: About
+      url: /about/
+      weight: 10
+
 params:
   title: Ari Zerner's Blog
   author: Ari Zerner
