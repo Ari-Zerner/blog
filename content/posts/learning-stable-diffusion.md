@@ -1,6 +1,6 @@
 ---
 title: "Learning Stable Diffusion"
-date: 2023-07-27T16:31:44-06:00
+date: 2023-07-27
 draft: true
 ---
 

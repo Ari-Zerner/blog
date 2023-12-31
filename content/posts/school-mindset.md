@@ -1,6 +1,6 @@
 ---
 title: "School Mindset"
-date: 2023-10-16T15:44:48-06:00
+date: 2023-10-16
 draft: false
 ---
 

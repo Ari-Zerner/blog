@@ -1,6 +1,6 @@
 ---
 title: "Notes on Quantum Physics"
-date: 2023-08-21T14:00:36-06:00
+date: 2023-08-21
 draft: true
 math: true
 ---
