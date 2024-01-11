@@ -2,6 +2,7 @@
 title: "School Mindset"
 date: 2023-10-16
 draft: false
+tags: ["musings"]
 ---
 
 In my life, I have spent three years working full-time as a software engineer. Before that, I spent almost twenty as a student in formal education. My education prepared me in many ways for my life and career, and on the whole has been a great advantage. However, the structure of formal education taught me a pattern of thinking that I realized has held me back as a professional. In this post, I'll examine this pattern, which I name "school mindset", and how it can be a hindrance in the professional world. I'll delve into my personal experiences and offer my insights on how to transition from a school mindset to a more effective professional mindset.

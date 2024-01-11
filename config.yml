@@ -12,3 +12,6 @@ menu:
 params:
   title: Ari Zerner's Blog
   author: Ari Zerner
+
+taxonomies:
+  tag: "tags"

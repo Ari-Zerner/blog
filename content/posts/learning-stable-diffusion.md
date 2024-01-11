@@ -2,6 +2,7 @@
 title: "Learning Stable Diffusion"
 date: 2023-07-27
 draft: true
+tags: ["technology"]
 ---
 
 Research and pick Stable Diffusion because open source with pretty outputs
