@@ -8,10 +8,19 @@ menu:
     - name: About
       url: /about/
       weight: 10
+    - identifier: "recipes"
+      name: "Recipes"
+      url: "/recipes/"
+      weight: 30
 
 params:
   title: Ari Zerner's Blog
   author: Ari Zerner
+  mainSections: ["posts"]
 
 taxonomies:
   tag: "tags"
+  
+permalinks:
+  posts: "/posts/:slug/"
+  recipes: "/recipes/:slug/"

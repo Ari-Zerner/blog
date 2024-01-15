@@ -2,7 +2,7 @@
 title: "My Tips For Fried Rice"
 date: 2023-12-31
 draft: false
-tags: ["food"]
+tags: ["recipes"]
 ---
 
 I've been making fried rice for several years, and it's gotten a lot better since I started. Here are my tips for a delicious fried rice.

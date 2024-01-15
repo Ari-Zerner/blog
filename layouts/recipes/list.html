@@ -1,0 +1,20 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+<!-- Listing Subdirectories -->
+<ul>
+  {{ range .Sections }}
+  <li><strong><u><a href="{{ .RelPermalink }}">{{ .Title }}</a></u></strong></li>
+  {{ end }}
+</ul>
+
+<!-- Listing Direct Child Pages -->
+<ul>
+  {{ range .Pages }}
+    {{ if and (ne .Kind "section") (not (strings.HasSuffix .File.LogicalName "_index.md")) }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  {{ end }}
+</ul>
+
+{{ end }}
