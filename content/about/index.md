@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: 2023-07-07T13:30:02-04:00
 draft: false
 ---
 
