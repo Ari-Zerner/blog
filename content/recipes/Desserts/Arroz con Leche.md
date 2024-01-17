@@ -1,6 +1,5 @@
 ---
 title: Arroz con Leche
-date: 2024-01-15
 draft: false
 tags: ["recipes"]
 ---

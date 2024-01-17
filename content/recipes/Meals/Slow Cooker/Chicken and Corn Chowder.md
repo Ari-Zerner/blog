@@ -1,6 +1,5 @@
 ---
 title: Chicken and Corn Chowder
-date: 2024-01-15
 draft: false
 tags: ["recipes"]
 ---
