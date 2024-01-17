@@ -10,23 +10,23 @@ Yield: 16 slices
 Ingredients:
 
 For cake:
-    Nutella (1/2 cup)
-    Chocolate cake mix (15.25 oz)
-    Chocolate pudding mix (3.9 oz)
-    Sour cream (1/2 cup)
-    Vegetable oil (3/4 cup)
-    Water (3/4 cup)
-    White sugar (3/4 cup)
-    Eggs (4)
-    Vanilla extract (1 tsp)
+- Nutella (1/2 cup)
+- Chocolate cake mix (15.25 oz)
+- Chocolate pudding mix (3.9 oz)
+- Sour cream (1/2 cup)
+- Vegetable oil (3/4 cup)
+- Water (3/4 cup)
+- White sugar (3/4 cup)
+- Eggs (4)
+- Vanilla extract (1 tsp)
 
 For frosting:
-    Softened cream cheese (8 oz)
-    Powdered sugar (2 cups)
-    Nutella (1/4 cup)
+- Softened cream cheese (8 oz)
+- Powdered sugar (2 cups)
+- Nutella (1/4 cup)
 
 For garnish:
-    Hazelnuts (1/4 cup)
+- Hazelnuts (1/4 cup)
 
 Directions:
 1) Place an oven rack in the lower third of the oven and preheat oven to 350°F.
