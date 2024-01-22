@@ -17,6 +17,7 @@ params:
   title: Ari Zerner's Blog
   author: Ari Zerner
   mainSections: ["posts"]
+  ShowBreadCrumbs: true
 
 taxonomies:
   tag: "tags"
