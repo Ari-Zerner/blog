@@ -8,6 +8,10 @@ menu:
     - name: About
       url: /about/
       weight: 10
+    - identifier: "resume"
+      name: "Resumé"
+      url: "/resume/"
+      weight: 20
     - identifier: "recipes"
       name: "Recipes"
       url: "/recipes/"
