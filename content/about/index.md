@@ -3,7 +3,7 @@ title: "About"
 draft: false
 ---
 
-Welcome to my blog! I'm Ari, a software engineer living in Mexico City. I'll be writing about whatever strikes my fancy, but especially technology and philosophy.
+Welcome to my blog! I'm Ari, a software engineer living in Mexico City.
 
 My web presence includes:
 - [Twitter](https://twitter.com/AriZerner)
