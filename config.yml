@@ -1,6 +1,6 @@
 baseURL: 'http://arizerner.com'
 languageCode: 'en-us'
-title: Ari Zerner's Blog
+title: Ari Zerner's Demesne
 theme: PaperMod
 
 menu:
@@ -18,7 +18,7 @@ menu:
       weight: 30
 
 params:
-  title: Ari Zerner's Blog
+  title: Ari Zerner's Demesne
   author: Ari Zerner
   mainSections: ["posts"]
   ShowBreadCrumbs: true
