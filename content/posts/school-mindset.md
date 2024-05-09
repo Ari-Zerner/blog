@@ -2,6 +2,7 @@
 title: "School Mindset"
 date: 2023-10-16
 draft: false
+weight: 100
 tags: ["musings"]
 ---
 
