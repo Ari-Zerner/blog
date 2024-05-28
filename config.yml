@@ -23,7 +23,6 @@ menu:
 
 params:
   title: Ari Zerner's Demesne
-  author: Ari Zerner
   mainSections: ["posts"]
   ShowBreadCrumbs: true
 

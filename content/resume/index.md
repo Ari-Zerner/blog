@@ -1,6 +1,6 @@
 ---
 title: "Resumé"
-draft: false
+ShowBreadcrumbs: false
 ---
 
 [PDF Version](https://flowcv.com/resume/o55o8w9vl0)

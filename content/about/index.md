@@ -1,6 +1,6 @@
 ---
 title: "About"
-draft: false
+ShowBreadcrumbs: false
 ---
 
 Welcome to my blog! I'm Ari, a software engineer living in Mexico City.
