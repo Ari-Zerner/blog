@@ -16,6 +16,10 @@ menu:
       name: "Recipes"
       url: "/recipes/"
       weight: 30
+    - identifier: "canary"
+      name: "Canary"
+      url: "/canary/"
+      weight: 40
 
 params:
   title: Ari Zerner's Demesne
