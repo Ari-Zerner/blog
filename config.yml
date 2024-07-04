@@ -5,8 +5,8 @@ theme: PaperMod
 
 menu:
   main:
-    - name: About/Contact
-      url: /about/
+    - name: Contact
+      url: /contact/
       weight: 10
     - identifier: "resume"
       name: "Resumé"
