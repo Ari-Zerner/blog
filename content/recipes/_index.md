@@ -1,3 +1,4 @@
 ---
 title: "Recipes"
+showBreadcrumbs: false
 ---
