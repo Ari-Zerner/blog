@@ -1,0 +1,6 @@
+<span style="
+    {{ with .Get "color" }}color: {{ . }};{{ end }}
+    {{ with .Get "fontSize" }}font-size: {{ . }};{{ end }}
+    {{ with .Get "fontWeight" }}font-weight: {{ . }};{{ end }}
+    {{ with .Get "backgroundColor" }}background-color: {{ . }};{{ end }}
+">{{ .Inner }}</span>
