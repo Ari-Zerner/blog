@@ -13,21 +13,22 @@ ShowBreadcrumbs: false
 
 #### Sabbatical
 *2023*
+- Personal coding projects, world travel, Spanish lessons, cooking
 
 #### OneStudyTeam, Software Engineer
 *October 2021 – December 2022*
-- Developed **REST APIs** and SSO authentication in a mature **Clojure/Ring** codebase
+- Developed **REST APIs** and SSO authentication in a mature **Clojure** codebase with **Ring**
 - Collaborated to design and implement an event framework foundational to a company-wide transition from monolithic to microservice architecture, built with **Kafka** and **Malli**
 
 #### Conexus, Software Engineer
 *August 2019 – September 2021*
-- Led a two-person team to translate a program from **OCaml** to **Java**
-- Maintained and extended **Java** code
+- Led a two-person team to translate code from **OCaml** to **Java**
+- Maintained and extended a **Java** codebase
 - Enhanced parsing and validation features of a **SQL** checker
 
 #### Charles River Development, Software Engineering Intern
 *May 2018 – August 2018*
-- Developed a parser for certain technical documents
+- Developed a parser for technical documents
 - Delivered an educational presentation on **Clojure**
 
 #### M.Gemi, Software Engineering Intern
@@ -37,8 +38,8 @@ ShowBreadcrumbs: false
 
 #### Convergence, Software Engineering Intern
 *June 2014 – August 2014*, *June 2015 – August 2015*
-- Increased efficiency on a task by over 900%
-- Trained two temp workers
+- Automated a manual data aggregation task, increasing efficiency by over 900%
+- Trained two temp workers to handle automation-resistant cases
 
 #### Convergence, Software Engineering Intern
 
@@ -48,7 +49,7 @@ ShowBreadcrumbs: false
 **M.S. Computer Science**\
 Rochester Institute of Technology, January 2019 – May 2019
 
-**B.S. Computer Science & Economics**\
+**B.S. Computer Science, B.S. Economics**\
 Rochester Institute of Technology, August 2015 – May 2019
 
 ### Skills
