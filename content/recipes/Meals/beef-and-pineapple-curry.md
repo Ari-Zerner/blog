@@ -23,8 +23,8 @@ Ingredients:
 - Green onions (3)
 
 Directions:
-1) Dice onions. Mince garlic.
-2) In a large skillet, heat oil over medium-high heat.
+1) Slice onions. Mince garlic.
+2) In a wok or large skillet, heat oil over medium-high heat.
 3) Sauté beef and onions until beef is browned and cooked through, stirring frequently.
 4) Drain, then stir in garlic and cook for 1 more minute.
 5) Stir in coconut milk, curry paste, curry powder, ginger, brown sugar, and salt.
@@ -36,3 +36,7 @@ Directions:
 
 Notes:
 - Best served over rice.
+- Feel free to use less heavy cream if you want a less creamy curry.
+
+![Curry in the wok](/images/food/beef-and-pineapple-curry-1.jpg)
+![Curry over rice](/images/food/beef-and-pineapple-curry-2.jpg)
