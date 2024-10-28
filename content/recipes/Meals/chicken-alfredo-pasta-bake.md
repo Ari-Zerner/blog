@@ -49,3 +49,6 @@ Notes:
 - When sautéing, add oil as necessary to prevent sticking.
 - You can do steps 1-15 ahead of time, then refrigerate until baking.
 - Feel free to use a different set of meats and vegetables.
+
+![Pasta bake in the dish](/images/food/chicken-alfredo-pasta-bake-1.jpg)
+![Pasta bake on a plate](/images/food/chicken-alfredo-pasta-bake-2.jpg)
