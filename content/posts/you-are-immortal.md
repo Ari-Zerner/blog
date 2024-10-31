@@ -2,6 +2,7 @@
 title: "You Are Immortal"
 date: 2024-10-30
 draft: true
+math: true
 ---
 
 I have become increasingly convinced that you, dear reader, will never actually die. What could I mean by this, you ask? In this essay, I'll explain how our modern understanding of physics might give rise to immortality, and explore some practical and philosophical considerations of immortality being the case.
@@ -18,7 +19,7 @@ So, in every moment, your story splits into every possible future. Even an omnis
 
 ## Anthropics
 
-Bearing with me for a minute, imagine I flip 20 coins in front of you. What's the probability that they all come up heads? 1/2^20, or roughly one in a million. Now, imagine that instead of simply flipping 20 coins, I assign millions of monkeys to each flip coins, recording each on a separate video. Now, despite those one in a million odds, it is quite likely I will be able to show you a (real, unaltered) video of my monkey flipping 20 coins and getting 20 heads in a row. Make it infinite monkeys instead of millions, and it becomes a certainty that I can find one who flipped 20 heads, or 30 heads, or any sequence I care to show you, however unlikely.
+Bearing with me for a minute, imagine I flip 20 coins in front of you. What's the probability that they all come up heads? $$ 2^{-20} $$, or roughly one in a million. Now, imagine that instead of simply flipping 20 coins, I assign millions of monkeys to each flip coins, recording each on a separate video. Now, despite those one in a million odds, it is quite likely I will be able to show you a (real, unaltered) video of my monkey flipping 20 coins and getting 20 heads in a row. Make it infinite monkeys instead of millions, and it becomes a certainty that I can find one who flipped 20 heads, or 30 heads, or any sequence I care to show you, however unlikely.
 
 This same principle applies directly to the consideration of immortality. All futures happen, but you only experience futures where you survive. Because the multiverse contains infinite copies of you, no matter how dangerous a situation is, some copies of you will always survive it, just as some of my monkeys kept flipping heads. Your subjective experience won't be diminished by the deaths of your copies across the multiverse; you always perceive a single storyline, regardless of what happens in the other possibilities. In a deadly situation, anyone watching is likely to see you die, but multiverse theory implies that you will always find yourself in a world where you beat the odds and survived.
 
