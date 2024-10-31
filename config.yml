@@ -27,6 +27,10 @@ menu:
       name: "Canary"
       url: "/canary/"
       weight: 50
+    - identifier: "old-travel-blog"
+      name: "Old Travel Blog"
+      url: "https://arizerner.travel.blog"
+      weight: 100
 
 params:
   title: Ari Zerner's Demesne
