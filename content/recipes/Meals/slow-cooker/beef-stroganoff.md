@@ -22,11 +22,10 @@ Directions:
 2) Chop onion and drain mushrooms.
 3) Mix beef, onion, soups, mushrooms, and pepper into slow cooker.
 4) Cover and cook on high for 4 hours or low for 8 hours.
-5) Cube cream cheese.
-6) Stir cream cheese and sour cream into beef mixture until cream cheese melts.
-7) Keep warm in slow cooker while preparing noodles according to package directions.
-8) Serve over noodles or stir noodles in before serving.
+5) Stir cream cheese and sour cream into beef mixture until no chunks of cream cheese remain.
+6) Keep warm in slow cooker while preparing noodles according to package directions.
+7) Serve over noodles or stir noodles in before serving.
 
 Notes:
-- If you can't get cream of onion soup, replace it with cream of mushroom soup and
-- add a second onion.
+- If you can't get cream of onion soup, replace it with cream of mushroom soup and add a second onion.
+- I think this recipe could be improved by replacing the canned mushrooms with 1 lb of fresh sliced mushrooms, salted and sauteed to remove moisture before adding to slow cooker.
