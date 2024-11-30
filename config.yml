@@ -36,6 +36,7 @@ params:
   title: Ari Zerner's Demesne
   mainSections: ["posts"]
   ShowBreadCrumbs: true
+  ShowLastMod: true
   math: false
 
 taxonomies:
@@ -44,6 +45,8 @@ taxonomies:
 permalinks:
   posts: "/posts/:slug/"
   recipes: "/recipes/:slug/"
+
+enableGitInfo: true
 
 markup:
   goldmark:
