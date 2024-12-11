@@ -2,6 +2,7 @@
 title: "You Are Immortal"
 date: 2024-12-10
 math: true
+weight: 100
 ---
 
 I have become increasingly convinced that you, dear reader, will never actually die. What could I mean by this, you ask? In this essay, I'll explain how our modern understanding of physics might give rise to immortality, and explore some practical and philosophical considerations of immortality.
