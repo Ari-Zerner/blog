@@ -1,23 +1,34 @@
 /* Make sure that your main content container has position: relative;
  Otherwise your sidenotes may show up in weird places, or even off the side of the screen. */
+
  :root {
     --sidenote-color: #5644cd;
 }
+
+body.dark {
+    --sidenote-color: #24bec7;
+}
+
 .sidenote:hover {
     background-color: var(--sidenote-color);
 }
+
 .sidenote:hover .sidenote-label {
     text-decoration: none;
 }
+
 .sidenote:hover .sidenote-content {
     border: dashed 3px var(--sidenote-color);
 }
+
 .sidenote .sidenote-label {
     text-decoration: underline dashed var(--sidenote-color);
 }
+
 .sidenote-checkbox {
     display: none;
 }
+
 .sidenote-content {
     display: block;
     position: absolute;
@@ -28,14 +39,17 @@
     padding: 0.5rem;
     font-size: 0.75rem;
 }
+
 .sidenote-content.sidenote-right {
     right: 0;
     margin-right: -250px;
 }
+
 .sidenote-content.sidenote-left {
     left: 0;
     margin-left: -250px;
 }
+
 @media screen and (max-width: 1320px) {
     .sidenote-content {
         position: static;
@@ -43,14 +57,14 @@
         margin-bottom: 10px;
         width: 100%;
         display: none;
-   }
-    .sidenote-checkbox:checked ~ .sidenote-content {
+    }
+    .sidenote-checkbox:checked~.sidenote-content {
         display: block;
-   }
+    }
     .sidenote-content.sidenote-right {
         margin-right: 0px;
-   }
+    }
     .sidenote-content.sidenote-left {
         margin-left: 0px;
-   }
+    }
 }
