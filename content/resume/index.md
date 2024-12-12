@@ -12,7 +12,7 @@ ShowBreadcrumbs: false
 ### Professional Experience
 
 #### Sabbatical
-*2023*
+*2023 – 2024*
 - Personal coding projects, world travel, Spanish lessons, cooking
 
 #### OneStudyTeam, Software Engineer
