@@ -15,7 +15,13 @@ Some stuff I enjoy(ed)! This page will always be a work in progress.
 - [Bayes Shammai](https://bayesshammai.substack.com/): My friend Ricki's blog about "markets, incentives, and human dynamics".
 - [Putanumonit](https://putanumonit.com/): Mathy life wisdom.
 
+### Blog Posts
+
+- [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/): An analysis of *The Office* that offers an excellent framework for understanding interaction in the workplace, with applicability to broader life.
+- [Civics and Seamonsters, Calvin and Hobbes](http://benjaminrosshoffman.com/civics-and-seamonsters-calvin-and-hobbes/): A cynical explanation of the nature of politics.
+
 ## Short Stories
+
 - [Exhalation](https://www.lightspeedmagazine.com/fiction/exhalation/): Of many excellent short stories I've read by Ted Chiang, this one stuck with me the most.
 - [Second Person, Present Tense](https://clarkesworldmagazine.com/gregory_11_17_reprint/): A thought-provoking exploration of personal identity.
 
