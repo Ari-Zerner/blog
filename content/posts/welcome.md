@@ -11,4 +11,6 @@ Hello and welcome to my {{<sidenote "demesne!">}}<b>demesne</b> (/dəˈmān/) <i
 - For some culinary inspiration, have a look at the [recipes](/recipes) section!
 - If you want to get in touch for any reason, I encourage you to [contact me](/contact)!
 
+Use the menu button in the top right to explore all sections of the site.
+
 --Ari

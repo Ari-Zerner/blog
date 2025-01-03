@@ -1,7 +1,56 @@
+/* Hamburger menu styles */
+#menu-trigger {
+    display: none;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0 1rem;
+    cursor: pointer;
+    color: var(--primary);
+}
+
+#menu-trigger:hover {
+    opacity: 0.8;
+}
+
+#menu-trigger {
+    display: block;
+}
+
+.nav #menu {
+        display: none;
+        position: absolute;
+        top: var(--header-height);
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        background: var(--theme);
+        padding: 1rem 0;
+        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        border-radius: 0 0 var(--radius) var(--radius);
+        max-height: calc(100vh - var(--header-height));
+        overflow-y: auto;
+        z-index: 99;
+    }
+
+    .nav #menu.show {
+        display: flex;
+    }
+
+    .nav #menu li {
+        width: 100%;
+        text-align: center;
+        padding: 0.5rem 0;
+    }
+
+    .nav #menu li + li {
+        margin: 0;
+    }
+
 /* Make sure that your main content container has position: relative;
  Otherwise your sidenotes may show up in weird places, or even off the side of the screen. */
 
- :root {
+:root {
     --sidenote-color: #5644cd;
 }
 
