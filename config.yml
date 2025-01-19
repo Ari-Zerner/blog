@@ -11,9 +11,9 @@ menu:
     - name: Contact
       url: /contact/
       weight: 10
-    - identifier: "resume"
-      name: "Resumé"
-      url: "/resume/"
+    - identifier: "projects"
+      name: "Projects"
+      url: "/projects/"
       weight: 20
     - identifier: "recipes"
       name: "Recipes"
@@ -23,6 +23,10 @@ menu:
       name: "Recommendations"
       url: "/recommendations/"
       weight: 40
+    - identifier: "resume"
+      name: "Resumé"
+      url: "/resume/"
+      weight: 45
     - identifier: "canary"
       name: "Canary"
       url: "/canary/"
