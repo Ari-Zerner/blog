@@ -1,0 +1,57 @@
+<style>
+  /* Minimal styling to indent sub-lists & remove bullets for directories */
+  .directory-summary {
+    cursor: pointer;
+  }
+  .nobullets {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 1em; /* indent nested items */
+  }
+</style>
+
+{{/* 
+    "renderNode" is our recursive function that:
+    - Gets the current page/section (".Page")
+    - Checks the recursion level (".Depth")
+    - Opens only if Depth == 0
+*/}}
+{{ define "renderNode" }}
+  {{ $p := .Page }}
+  {{ $d := .Depth }}
+
+  <details class="directory" {{ if eq $d 0 }} open{{ end }}>
+    <summary class="directory-summary">
+      <a href="{{ $p.Permalink }}">{{ $p.Title }}</a>
+    </summary>
+
+    <ul class="nobullets">
+      {{/* Subdirectories (child sections) */}}
+      {{ range $p.Sections }}
+        {{ $nextDepth := add $d 1 }}
+        <li>{{ template "renderNode" (dict "Page" . "Depth" $nextDepth) }}</li>
+      {{ end }}
+
+      {{/* Pages in this directory (exclude the _index.md) */}}
+      {{ range $p.Pages }}
+        {{ if ne .File.TranslationBaseName "_index" }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </details>
+{{ end }}
+
+{{/* 
+    "tree" is the entry point: 
+    it calls "renderNode" with Depth=0 for the current page 
+*/}}
+{{ define "tree" }}
+  {{ template "renderNode" (dict "Page" . "Depth" 0) }}
+{{ end }}
+
+{{/* Finally, we render "tree" for the current section/context. */}}
+{{ template "tree" . }}
+  
