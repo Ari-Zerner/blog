@@ -3,6 +3,8 @@ title: "Resumé"
 ShowBreadcrumbs: false
 ---
 
+See also: [Projects](/projects)
+
 [PDF Version](https://flowcv.com/resume/o55o8w9vl0)
 
 ### Profile
