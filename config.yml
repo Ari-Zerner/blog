@@ -27,6 +27,10 @@ menu:
       name: "Resumé"
       url: "/resume/"
       weight: 45
+    - identifier: "private-chef"
+      name: "Private Chef Website"
+      url: "https://aricooks.com"
+      weight: 47
     - identifier: "canary"
       name: "Canary"
       url: "/canary/"
