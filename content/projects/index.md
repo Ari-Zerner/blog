@@ -11,4 +11,4 @@ ShowBreadcrumbs: false
   - Built with Python/Flask, Scryfall API, and OpenAI SDK. Not yet deployed.
 
 
-See more works in progress on my [GitHub](https://github.com/ari-zerner).
+See more works in progress and past projects on my [GitHub](https://github.com/ari-zerner).
