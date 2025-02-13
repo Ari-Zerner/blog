@@ -1,4 +1,4 @@
-baseURL: 'http://arizerner.com'
+baseURL: 'https://arizerner.com'
 languageCode: 'en-us'
 title: Ari Zerner's Demesne
 theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
