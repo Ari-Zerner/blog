@@ -1,7 +1,7 @@
 baseURL: 'http://arizerner.com'
 languageCode: 'en-us'
 title: Ari Zerner's Demesne
-theme: PaperMod
+theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
 
 menu:
   main:
@@ -11,6 +11,10 @@ menu:
     - name: Contact
       url: /contact/
       weight: 10
+    - identifier: "resume"
+      name: "Resumé"
+      url: "/resume/"
+      weight: 15
     - identifier: "projects"
       name: "Projects"
       url: "/projects/"
@@ -23,10 +27,6 @@ menu:
       name: "Recommendations"
       url: "/recommendations/"
       weight: 40
-    - identifier: "resume"
-      name: "Resumé"
-      url: "/resume/"
-      weight: 45
     - identifier: "private-chef"
       name: "Private Chef Website"
       url: "https://aricooks.com"
