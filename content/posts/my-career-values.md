@@ -23,7 +23,7 @@ My drive for connection also means I want a culture of socializing with coworker
 
 I want to know the Truth. I constantly strive to refine my mental models, excited to find ways reality disagrees so that I can understand it better. I'm precise in my speech and writing, and put a high value on honesty in myself and the people around me, cognizant of the way a single innaccuracy propagates through a connected web of belief. I like to know the intricate workings of systems, from atoms to economies. The world is vast, with far more detail than a human can comprehend in a lifetime, but I continue to expand the frontier of my knowledge.
 
-At work, I want to form a detailed understanding of the systems I touch. I want to take the time to grok codebases, filling in my conceptual map rather than just making quick patches. I aslo value opportunities to learn complexities with less immediate relevance; for instance, I fondly recall a presentation about SQL database implementations at an offsite in my last role.
+At work, I want to form a detailed understanding of the systems I touch. I want to take the time to grok codebases, filling in my conceptual map rather than just making quick patches. I also value opportunities to learn complexities with less immediate relevance; for instance, I fondly recall a presentation about SQL database implementations at an offsite in my last role.
 
 ## Novelty
 
