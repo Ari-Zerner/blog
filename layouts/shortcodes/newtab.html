@@ -1,0 +1,4 @@
+{{ $url := .Get "url" }}
+{{ $title := .Get "title" }}
+
+<a href="{{ $url | safeURL }}" title="{{ $title }}" target="_blank" rel="noreferrer noopener">{{ $title | safeHTML }}</a>
