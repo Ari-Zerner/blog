@@ -46,6 +46,7 @@ params:
   ShowBreadCrumbs: true
   ShowLastMod: true
   math: false
+  favicon: "/favicon.ico"
 
 taxonomies:
   tag: "tags"
