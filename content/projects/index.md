@@ -7,6 +7,8 @@ ShowBreadcrumbs: false
   - Built with Python/Flask, Spotify API, GitHub API, and MongoDB. Deployed on Render.
 - [Secret Market Creator](https://secret-market.vercel.app) ([source](https://github.com/ari-zerner/secret-market)): A convenient way to create [Manifold](https://manifold.markets) markets with private resolution criteria.
   - Built with Next.js, Manifold API, CryptoJS, and MongoDB. Deployed on Vercel.
+- JournalLM ([source](https://github.com/ari-zerner/journallm)): A script that feeds Day One journals into Claude for detailed analysis and advice.
+  - Built with Python and Anthropic API.
 - Deck Advisor ([source](https://github.com/ari-zerner/mtg-ai)): An AI-powered Magic: the Gathering deckbuilding advisor.
   - Built with Python/Flask, Scryfall API, and OpenAI SDK. Not yet deployed.
 
