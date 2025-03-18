@@ -13,7 +13,7 @@ My core values in life are connection, understanding, novelty, and luxury. Here'
 
 ## Connection
 
-I'm primarily driven by personal connection. I'm at my happiest when I'm surrounded by friends – talking, gaming, partying, the activity doesn't matter much when I'm with good people. I pay a lot of attention to social dynamics, greedily gathering information about how the people around me relate to each other. I want to be a positive impact on the people I encounter; when someone offers a way I can help them, I eagerly spring into action. 
+I'm primarily driven by personal connection. I'm at my happiest when I'm surrounded by friends – chatting around a fire, playing board games, enjoying a party, or anything so long as I'm with good people. I pay a lot of attention to social dynamics, greedily gathering information about how the people around me relate to each other. I want to be a positive impact on the people I encounter; when someone offers a way I can help them, I eagerly spring into action. 
 
 In my career, this means I want to collaborate closely with my team. I want projects to be group efforts with sharing of ideas on strategy and design, with pair programming and code reviews so each person on the team has a sense of what others are doing, rather than each of us doing head-down work that only occasionally interacts with the others. I want to interface with teams beyond my own, integrating into the larger structure of the company.
 
