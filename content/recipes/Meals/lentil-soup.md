@@ -7,7 +7,7 @@ tags: ["recipes"]
 Servings: 5
 
 Ingredients:
-- Brown lentils (1-1/2 cups)
+- Dry brown lentils (1-1/2 cups)
 - Parmesan rind (1 large)
 - Bay leaves (4)
 - Garlic (1 medium bulb)
