@@ -20,6 +20,7 @@ Some stuff I enjoy(ed)! This page will always be a work in progress.
 - [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/): An analysis of *The Office* that offers an excellent framework for understanding interaction in the workplace, with applicability to broader life.
 - [Civics and Seamonsters, Calvin and Hobbes](http://benjaminrosshoffman.com/civics-and-seamonsters-calvin-and-hobbes/): A cynical explanation of the nature of politics.
 - [Music in Human Evolution](https://meltingasphalt.com/music-in-human-evolution/): A plausible just-so story that explains human song and dance, but also burial rites and battle trances.
+- [95%-ile Isn't That Good](https://danluu.com/p95-skill/): In most skills, it's possible to become relatively elite with a reasonable amount of effort.
 
 ## Short Stories
 
