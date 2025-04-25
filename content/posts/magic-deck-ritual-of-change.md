@@ -6,7 +6,7 @@ tags: ["mtg"]
 
 {{% scryfall %}}
 
-I brewed a Historic deck recently that I call *Ritual of Change*. It's a lot of fun to play, and it's taken me to Platinum in Best-of-1 Ranked! In this post, I'll share the decklist and some notes on building/playing the deck.
+I brewed a Historic deck recently that I call *Ritual of Change*. It's a lot of fun to play, and it's taken me to Diamond in Best-of-1 Ranked! In this post, I'll share the decklist and some notes on building/playing the deck.
 
 # The Decklist
 
@@ -129,5 +129,7 @@ Lands (20)
 2 Razorverge Thicket
 1 Temple Garden
 ```
+
+Once I have 4x [[Mana Confluence]], I'm considering splashing black in order to run [[Juggernaut Peddler]]. A two mana creature with a strong ETB is great for this deck, and many of my losses are against combo decks that it could disrupt. To make room, I might cut [[Collected Company]]. It feels crazy, but 4 mana is often too much in this fast format. However, I might change my tune on that when I finish the playset of [[Abhorrent Oculus]].
 
 {{% /scryfall %}}
