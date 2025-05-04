@@ -88,11 +88,11 @@ Once [[Birthing Ritual]] is in play, it's time to start churning creatures, most
 
 # Future Development
 
-The current decklist is somewhat constrained by my supply of wildcards. There are a few changes I'd try out if I had full access to the card pool, although I can't say for certain whether they'd be improvements before seeing them in action.
+The current decklist is somewhat constrained by my supply of wildcards. There are a few changes I'd try out if I had full access to the card pool, although I can't say for certain whether they'd be improvements before seeing them in action. I'll aim to keep the decklist reasonably current [on Moxfield](https://moxfield.com/decks/baenQc9ucUyHlSmLzcJisg) as I update it.
 
 **Creature changes:**
 - Complete the playset of [[Abhorrent Oculus]]. For this, I'd likely cut 2 [[Renegade Rallier]]s, since they compete to be pulled out of the deck as 3-drops.
-- Add [[Fiend Artisan]]. It's another way to tutor creatures out of the deck, including [[Abhorrent Oculus]] without its additional cost. I think I would swap out [[Burning-Tree Emissary]], counting on the strength of [[Fiend Artisan]] to make up for the loss of speed. [[Charming Prince]] could potentially be swapped out instead of the last two, but the increased access to [[Abhorrent Oculus]] makes the blink ability more valuable.
+- ~~Add [[Fiend Artisan]]. It's another way to tutor creatures out of the deck, including [[Abhorrent Oculus]] without its additional cost. I think I would swap out [[Burning-Tree Emissary]], counting on the strength of [[Fiend Artisan]] to make up for the loss of speed. [[Charming Prince]] could potentially be swapped out instead of the last two, but the increased access to [[Abhorrent Oculus]] makes the blink ability more valuable.~~ I tried adding a [[Fiend Artisan]], but found it to be too slow. Needing to stick around for a turn and then consume further mana makes it substantially worse than [[Birthing Ritual]].
 
 **Land changes:**
 - Complete the playset of [[Mana Confluence]]. As well as coming in untapped to provide all three of my colors, it can tap for other colors to activate abilities of random creatures from [[Fear of Change]]. I think I could support the life loss with life gain from [[Prosperous Innkeeper]], but possibly a full playset would be too much.
