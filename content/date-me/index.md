@@ -6,6 +6,7 @@ aliases:
 ShowToc: true
 sitemap:
   disable: true
+noindex: true
 ---
 
 Already think we're a good match? [Skip to the end](#lets-match)

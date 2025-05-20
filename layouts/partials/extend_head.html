@@ -3,3 +3,7 @@
 {{ if .Param "math" }}
     {{ partialCached "math.html" . }}   
 {{ end }}
+
+{{ if .Params.noindex }}
+    <meta name="robots" content="noindex, nofollow">
+{{ end }}
