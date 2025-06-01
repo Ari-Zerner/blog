@@ -3,6 +3,8 @@ title: "Welcome!"
 weight: 1
 summary: "Click here for a quick guide to the site, or feel free to explore on your own."
 ShowLastMod: false
+aliases:
+  - /about
 ---
 
 Hello and welcome to my {{<sidenote "demesne!">}}<b>demesne</b> (/dəˈmān/) <i>n.</i> the lands of an estate.{{</sidenote>}} This place serves several purposes:
