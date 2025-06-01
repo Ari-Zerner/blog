@@ -9,7 +9,7 @@ sitemap:
 noindex: true
 ---
 
-Already think we're a good match? [Skip to the end](#lets-match)
+Already think we're a good match? [Skip to the end](#lets-match).
 
 ---
 
@@ -20,10 +20,10 @@ Hello! I'm pretty new to this dating thing, by which I mean I've been in a few s
 # I Am...
 
 - A 28-year old man.
-- {{< sidenote "Heteroflexible." left >}}My fuzzy attraction cluster in person-space centers on cis women and AFAB enbies, but doesn't rule out trans men or women. It doesn't contain cis men; I hope to bi-hack eventually but I'm not currently trying.{{< /sidenote >}}
+- {{< sidenote "Heteroflexible." left >}}My fuzzy attraction cluster in person-space centers on cis women and AFAB enbies, but doesn't rule out trans men or women. It doesn't seem to contain cis men; I hope to bi-hack eventually but I'm not currently trying.{{< /sidenote >}}
 - Polyamorous, and it's important to me.
-- Based in Vallejo, CA (north of Berkeley).
-- An old-school rationalist – I do most of my socializing with the rationalist community in Berkeley.
+- Based in Berkeley, CA.
+- A rationalist (but I repeat myself, in this Date Me Doc).
 - 5'9" and 225 lbs {{< sidenote "at the time of writing." >}}I'm rapidly losing weight thanks to tirzepatide. Last updated: 2025-04-16{{< /sidenote >}}
 
 # I Want...
@@ -51,9 +51,9 @@ Hello! I'm pretty new to this dating thing, by which I mean I've been in a few s
 
 # You Shouldn't Date Me Because...
 
-- I'm unemployed and live with my dad, although I'm working on remedying that.
-- My job search is keeping me busy so I have limited free time.
+- I'm unemployed, and figuring out my career is taking up a decent bit of my attention.
 - You're hoping for a relationship to lead to monogamy or children, and neither is in my life plan.
+- I'm an incorrigible [slut](https://sluts.substack.com/p/the-way-of-the-virtuous-manslut), and that doesn't suit you emotionally.
 
 ![That's my name!](/images/date-me-doc/synagogue.jpg)
 
