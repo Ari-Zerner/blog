@@ -9,7 +9,6 @@ To contact me directly, use one of:
 - SMS/Signal: six one seven nine nine nine six three zero eight
 - [Twitter](https://x.com/AriZerner)
 - [LinkedIn](https://www.linkedin.com/in/ari-zerner/)
-- [BlueSky](https://bsky.app/profile/arizerner.com)
 
 My web presence also includes:
 - [GitHub](https://github.com/ari-zerner)
