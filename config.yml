@@ -47,6 +47,7 @@ params:
   ShowLastMod: true
   math: false
   favicon: "/favicon.ico"
+  ShowFullTextinRSS: true
 
 taxonomies:
   tag: "tags"
