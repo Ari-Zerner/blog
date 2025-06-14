@@ -11,6 +11,8 @@ noindex: true
 
 Already think we're a good match? [Skip to the end](#lets-match).
 
+*If you got to this page by RSS feed or search engine rather than by a direct link, kindly navigate to the [main site](/).*
+
 ---
 
 Hello! I'm pretty new to this dating thing, by which I mean I've been in a few serious relationships, each of which started when a close lady friend and I started smooching, but I haven't gotten to know a new person through dates. I don't really know what I'm doing, but it's not too late to start figuring it out! My goal for this document is to help my friends matchmake for me, or to give you the information to decide whether you're interested.
@@ -24,11 +26,10 @@ Hello! I'm pretty new to this dating thing, by which I mean I've been in a few s
 - Polyamorous, and it's important to me.
 - Based in Berkeley, CA.
 - A rationalist (but I repeat myself, in this Date Me Doc).
-- 5'9" and 225 lbs {{< sidenote "at the time of writing." >}}I'm rapidly losing weight thanks to tirzepatide. Last updated: 2025-04-16{{< /sidenote >}}
+- 5'9" and {{< sidenote "~225 lbs." >}}I'm taking tirzepatide and will hopefully continue to lose weight. Last updated: 2025-06-14{{< /sidenote >}}
 
 # I Want...
 
-- A casual relationship or friend with benefits.
 - Lots of physical touch/intimacy.
 - Interesting conversation and fun outings.
 - Meetups 1-4 times a month, with daily-to-weekly texting in between.
