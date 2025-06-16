@@ -5,6 +5,10 @@ slug: my-career-values
 weight: 100
 ---
 
+*Edit 2025-06-16: When I wrote this post, I was still only considering work in software engineering, where I have professional experience. The discussion of my values still very much holds, but that clarity has led me to broaden my horizons. For instance, after finding it very rewarding to volunteer for community events, I've been considering a pivot to generalist ops work. To me, the core message of this post is that I should seek work where I feel alive, wherever that ends up taking me.*
+
+---
+
 It can be easy to lose sight of one's values, when surrounded by a culture that doesn't share them. Living in the SF Bay Area, I've met a lot of hyper-ambitious people with visions of the changing the world, who live and breathe their missions. It's impressive and inspiring, and I have nothing but respect for them – but it's not who I am. I began to try to mold myself into one, to sell myself as one, but lately I've been reflecting that I felt unnaturally contorted, and it showed in the half-heartedness of my efforts. I wrote this essay for myself, to clarify my values so I can fully align my actions behind them. Now, I'm publishing it to share that clear, honest picture with you.
 
 # What I Care About
