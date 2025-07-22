@@ -27,6 +27,7 @@ Some stuff I enjoy(ed)! This page will always be a work in progress.
 
 - [Exhalation](https://www.lightspeedmagazine.com/fiction/exhalation/): Of many excellent short stories I've read by Ted Chiang, this one stuck with me the most.
 - [Second Person, Present Tense](https://clarkesworldmagazine.com/gregory_11_17_reprint/): A thought-provoking exploration of personal identity.
+- [I Don't Know, Timmy, Being God Is a Big Responsibility](https://qntm.org/responsibility)
 
 ## Books
 
