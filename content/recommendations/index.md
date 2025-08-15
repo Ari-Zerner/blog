@@ -22,6 +22,7 @@ Some stuff I enjoy(ed)! This page will always be a work in progress.
 - [Music in Human Evolution](https://meltingasphalt.com/music-in-human-evolution/): A plausible just-so story that explains human song and dance, but also burial rites and battle trances.
 - [95%-ile Isn't That Good](https://danluu.com/p95-skill/): In most skills, it's possible to become relatively elite with a reasonable amount of effort.
 - [The Void](https://nostalgebraist.tumblr.com/post/785766737747574784/the-void): An explainer and philosophical exploration of LLMs, especially the difference between base models and chat assistants.
+- [You're A Crazy Person](https://www.experimental-history.com/p/face-it-youre-a-crazy-person): A mental technique for finding a job you'll actually enjoy, by digging into your idiosyncratic insanity.
 
 ## Short Stories
 
