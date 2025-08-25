@@ -14,6 +14,7 @@ Some stuff I enjoy(ed)! This page will always be a work in progress.
 - [A Collection of Unmitigated Pedantry](https://acoup.blog/): History made accessible, often through the lens of analysing TV and videogames.
 - [Bayes Shammai](https://bayesshammai.substack.com/): My friend Ricki's blog about "markets, incentives, and human dynamics".
 - [Putanumonit](https://putanumonit.com/): Mathy life wisdom.
+- [Life Improvement Schemes](https://appliedtranshumanism.substack.com/): Observations and practical advice with a focus on friendship and romance.
 
 ### Blog Posts
 
