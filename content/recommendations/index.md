@@ -34,6 +34,7 @@ Some stuff I enjoy(ed)! This page will always be a work in progress.
 ## Books
 
 - [Being You](https://www.anilseth.com/being-you/): An enlightening summary of the science of consciousness. Reviewed on [Putanumonit](https://putanumonit.com/2023/08/19/seth-explains-consciousness/).
+- [Our Mathematical Universe](https://space.mit.edu/home/tegmark/mathematical.html): Max Tegmark's grand theory of the nature of reality, backed by interesting and established science.
 - [Salt, Fat, Acid, Heat](https://www.saltfatacidheat.com/): A book that teaches principles of good cooking, rather than just a book of recipes.
 
 ### Web Serials
