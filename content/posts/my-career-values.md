@@ -2,7 +2,6 @@
 title: "Why You Should Hire Me"
 date: 2025-02-12
 slug: my-career-values
-weight: 100
 ---
 
 *Edit 2025-06-16: When I wrote this post, I was still only considering work in software engineering, where I have professional experience. The discussion of my values still very much holds, but that clarity has led me to broaden my horizons. For instance, after finding it very rewarding to volunteer for community events, I've been considering a pivot to generalist ops work. To me, the core message of this post is that I should seek work where I feel alive, wherever that ends up taking me.*
